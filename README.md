@@ -1,16 +1,4 @@
----
-license: cc-by-nc-nd-4.0
-task_categories:
-- object-detection
-tags:
-- violence
-- fighting detection
-- video surveillance
-- violence detection
-- object detection
-size_categories:
-- 1K<n<10K
----
+
 # Fight Dataset - 1,000+ videos
 This dataset contains **1,000** high-quality videos of **simulated physical altercations** recorded in controlled environments, captured from static and moving surveillance camera views at up to **1920×1080 resolution and 30 FPS**. Designed for **violence detection, action recognition, and public safety systems**, this surveillance dataset includes rich metadata annotations enabling accurate camera fight analysis and training **violence detection models**.- **[Get the data](https://unidata.pro/datasets/fight-detection-video/?utm_source=github-sc&utm_medium=referral&utm_campaign=fight-detection-video)**
 
